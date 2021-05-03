@@ -15,7 +15,7 @@
 //  * heart rate calculation
 //  * SpO2 (oxidation level) calculation
  
-char auth[] = "N-81lOStH83VwUeNuKHOzpLVzqjFXhHO";             // You should get Auth Token in the Blynk App.
+char auth[] = "v60fhfJerBZAZzmYbwS2uSzs2Qvy6sjK";             // You should get Auth Token in the Blynk App.
 char ssid[] = "TP-LINK_9950";                                     // Your WiFi credentials.
 char pass[] = "8348502146";
  
